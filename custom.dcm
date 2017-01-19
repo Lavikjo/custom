@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2x5.08mmScrew
+D 2x5.08mm Screw Terminal
+K screw, 2x5.08mm, terminal, conn, green, phoenix
+$ENDCMP
+#
+$CMP ST1480ACDR
+D low power transceiver for RS-485 and RS-422 
+K RS-485,RS-422,tranceiver,
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/81/93/fa/ed/87/47/46/00/CD00003136.pdf/files/CD00003136.pdf/jcr:content/translations/en.CD00003136.pdf
+$ENDCMP
+#
+#End Doc Library
